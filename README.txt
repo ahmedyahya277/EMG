@@ -21,4 +21,4 @@ So, 	the pand pass is from 20 to 500 HZ which is the ranage of the EMG signals.
 7th :	
 	Smothing stage used to smoth the signal and not to drop all the voltage when the arm relaxed but read the peaks of the pulses.
  
-  
+  By the way the project is done using Proteus Simulation and done practically too under supervision ENG.Mazen
